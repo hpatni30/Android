@@ -1,0 +1,140 @@
+twoOhSix.config({
+css: 'div.ad.gpt,div.tpd-box,.widget_block .ad.gpt,.widget_block .tpd-box,#secondary_single .widget_block .ad.gpt,#secondary_single .widget_block .tpd-box {border:0;margin:0;padding:0;}.aa_padding {padding-left:0px !important;}div.tpd-box div,div.tpd-display div {margin:0 auto;text-align:center;}div.post-content div[id^="dsk-box-ad-c"] div iframe,div.post-content div[data-tpd-id^="dsk-box-ad-c"] div iframe {margin-bottom:18px;}div.tpd-box[data-tpd-id^="native-ad-a"] div iframe {height:165px;width:650px;}div.tpd-box[data-tpd-id^="native-ad-d"] div iframe {height:165px;width:650px;}div.tpd-box[data-tpd-id^="native-ad-d"] {margin-top:-20px;margin-bottom:-10px;width:650px;}div.tpd-mobile,div[id^="mob-box-ad-a"],div[id^="mob-banner-ad-"],div[id^="mob-box-ad-"],div[data-tpd-id^="mob-box-ad-"],div[data-tpd-id^="mob-banner-ad-"],div[data-tpd-id^="mob-box-ad-"] {display:none;}@media screen and (max-width:768px) {div.tpd-desktop,div[id^="dsk-banner-ad-a"],div[id^="dsk-box-ad-"],div[data-tpd-id^="dsk-banner-ad-"],div[data-tpd-id^="dsk-box-ad-"] {display:none;}div.tpd-mobile,div[id^="mob-box-ad-"],div[data-tpd-id^="mob-box-ad-"] {display:block;}div.ad.gpt[id^="mob-banner-ad-"],div.ad.gpt[id^="mob-320x50-mob-"],div.tpd-box[data-tpd-id^="mob-banner-ad-"] {display:block;margin-left:25px;margin-top:45px;min-height:1px;min-width:1px;z-index:10000;}div.tpd-box[data-tpd-id^="mob-banner-ad-"] div[id^=google_ads_iframe_] {transform:translateY(3vw);text-align:center;}div.tpd-box[data-tpd-id^="mob-banner-ad-a"] {height:70px;width:100%;bottom:0;margin-left:0px;margin-top:0px;left:0;position:fixed;z-index:10000001;background-color:white;text-align:center;}div.ad.gpt[id^="ad-320x50-a"] a.tpd-close-btn,div.ad.gpt[id^="ad-320x50-mob-"] a.tpd-close-btn,div.tpd-box[data-tpd-id^="mob-banner-ad-"] a.tpd-close-btn,div.tpd-box[data-tpd-id^="mob-banner-ad-"] a.tpd-close-btn {display:none;}div.tpd-box[data-tpd-id^="native-ad-a"] div iframe {height:85px;width:300px;}div.tpd-box[data-tpd-id^="native-ad-d"] div iframe {height:85px;width:300px;}}body.single article.native h1.post_title a {font-size:187%;margin-bottom:0;}body.single article.native p {font-size:90%;}#zergnet-widget-28009 .zergentity { width:46% !important; }#zergnet-widget-28009 #zerglayout { width:100% !important; }#zergnet-widget-28009 .zergheadline { width:100% !important; margin-top:5px !important; text-align:left !important; }#zergnet-widget-28009 .zergentity:nth-of-type(1) { margin-left:0% !important; margin-right:2% !important; }#zergnet-widget-28009 .zergentity:nth-of-type(2) { margin-left:2% !important; margin-right:0% !important; }#zergnet-widget-28009 img {width:100% !important;-ms-transform:translateY(17.5%);-webkit-transform:translateY(17.5%);transform:translateY(17.5%);height:auto !important;}#zergnet-widget-28009 .zergentity > a {display:block;margin-top:-33.25% !important;overflow:hidden;}@media screen and (min-width:411px) and (max-width:413px) {div.tpd-box[data-tpd-id^="mob-banner-ad-"] div[id^=google_ads_iframe_] {transform:translateY(0vw);}div.tpd-box[data-tpd-id^="mob-banner-ad-"] iframe {height:70px;}}@media screen and (min-width:359px) and (max-width:361px) {div.tpd-box[data-tpd-id^="mob-banner-ad-"] div[id^=google_ads_iframe_] {transform:translateY(0vw);}div.tpd-box[data-tpd-id^="mob-banner-ad-"] iframe {height:70px;}}',
+js: '(function(){var divs = [\'oop-ad-a\', \'oop-ad-b\', \'oop-ad-c\', \'mob-banner-ad-a\'];for (var i=0; i<divs.length; i++){var div = document.createElement(\'div\');div.setAttribute(\'data-tpd-id\', divs[i]);div.setAttribute(\'class\', \'tpd-box\');document.body.appendChild(div);}}());',
+version: '2.0',
+id: '0002',
+active: 1,
+ga: 'UA-41929724-2',
+adsnative: 1,
+st: 1,
+st_pbjs: 1,
+tb: 'thepublisherdesk-androidauthority',
+pbjs: 1,
+tc: 11735,
+openx: 'publisherdesk-d.openx.net',
+sra: 1,
+pan: 0,
+wibbitz: 'android_authority',
+vpulse: 'vp_OQje64',
+mtper: 25,
+excludeuripatterns: ['best-of-ces-awards(\\/*)?(\\?+.*)?$', '\\.com\\/sponsored'],
+gpt:
+{
+slots:
+[
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-banner-ad-a', div: '', sz: [[728, 90], [970, 90], [970, 250], [468, 60]], pb: 0, rf: 0, sticky: 1, oop: 0, tc: 25823, rbs: 32534, rbz: 702790, anxs: 8931183, openx: 538924519, criteo: 726418, brealtime: 11900164, idxSlot: 1, idxSite: 215723, districtM: 12207362, conv: 115772, rv: 12516290 },
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-box-ad-a', div: '', sz: [[300, 250], [300, 600], [300, 1050], [160, 600], [120, 600]], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25819, rbs: 32534, rbz: 702782, anxs: 8931146, openx: 538924522, tl: 'publisherdesk_dsk-box-ad-a', criteo: 726421, brealtime: 11900169, idxSlot: 3, idxSite: 215725, districtM: 12207363, conv: 115550, rv: 12516266 },
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-box-ad-b', div: '', sz: [300, 250], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25820, rbs: 32534, rbz: 702784, anxs: 8931168, openx: 538924523, tl: 'publisherdesk_dsk-box-ad-b', criteo: 726422, brealtime: 11900165, idxSlot: 4, idxSite: 215726, districtM: 12207364, conv: 115769, rv: 12516267 },
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-box-ad-c', div: '', sz: [300, 250], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25821, rbs: 32534, rbz: 702786, anxs: 8931176, openx: 538924524, tl: 'publisherdesk_dsk-box-ad-c', criteo: 726423, brealtime: 11900167, idxSlot: 5, idxSite: 215727, districtM: 12207365, conv: 115770, rv: 12516274 },
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-box-ad-d', div: '', sz: [300, 250], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25822, rbs: 32534, rbz: 702788, anxs: 8931179, openx: 538924525, criteo: 726424, brealtime: 11900166, idxSlot: 6, idxSite: 215728, districtM: 12207366, conv: 115771, rv: 12516275 },
+  {id: '/134702932/0002-androidauthority.com/0002-androidauthority.com-spot', label: 'dsk-box-ad-spot-a', div: '', sz: [[300, 250], [1, 1]], pb: 0, rf: 0, sticky: 0, oop: 0, rbs: 32534, rbz: 687188, anxs: 11650994, openx: 539111857, criteo: 812720, brealtime: 11900168, idxSlot: 7, idxSite: 215729, districtM: 12207367 },
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-sky-ad-a', div: '', sz: [160, 600], pb: 0, rf: 0, sticky: 1, oop: 0, tc: 739319, rbs: 32534, rbz: 702792, anxs: 10129788, openx: 538924526 },
+  {id: '/134702932/0002-androidauthority.com', label: 'dsk-sky-ad-b', div: '', sz: [[120, 600], [160, 600]], pb: 0, rf: 0, sticky: 1, oop: 0, tc: 739319, rbs: 32534, rbz: 470732, anxs: 10129788, openx: 538924526, brealtime: 11900173, idxSlot: 2, idxSite: 215724, districtM: 12207368, conv: 115773, rv: 12516264 },
+  {id: '/134702932/0002-androidauthority.com', label: 'mob-banner-ad-a', div: '', sz: [[320, 50], [300, 50]], pb: 0, rf: 1, sticky: 0, oop: 0, tc: 25829, rbs: 32802, rbz: 702802, anxs: 8931228, anxs_psqd: 11579721, openx: 538924527, criteo: 726425, brealtime: 11900170, idxSlot: 8, idxSite: 215730, districtM: 12207369, jpremium: 39064, allow: ["ms"], conv: 115778, rv: 12516287 },
+  {id: '/134702932/0002-androidauthority.com', label: 'mob-banner-ad-b', div: '', sz: [[320, 50], [300, 50]], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 777389, rbs: 32802, rbz: 702804, anxs: 10256718, openx: 538924528, criteo: 726427, brealtime: 11900172, idxSlot: 9, idxSite: 215731, districtM: 12207370, conv: 115779, rv: 12516289 },
+  {id: '/134702932/0002-androidauthority.com', label: 'mob-box-ad-a', div: '', sz: [[300, 250], [300, 50], [320, 50]], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25824, rbs: 32802, rbz: 702794, anxs: 8931199, openx: 538924545, tl: 'publisherdesk_mob-box-ad-a', brealtime: 11900171, idxSlot: 10, idxSite: 215732, districtM: 12207371, jpremium: 39064, allow: ["is"], conv: 115774, rv: 12516277 },
+  {id: '/134702932/0002-androidauthority.com', label: 'mob-box-ad-b', div: '', sz: [[300, 250], [300, 50], [320, 50]], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25825, rbs: 32802, rbz: 702796, anxs: 8931208, anxs_psqd: 11579720, openx: 538924550, tl: 'publisherdesk_mob-box-ad-b', criteo: 726429, brealtime: 11900177, idxSlot: 11, idxSite: 215733, districtM: 12207372, conv: 115775, rv: 12516282 },
+  {id: '/134702932/0002-androidauthority.com', label: 'mob-box-ad-c', div: '', sz: [[300, 250], [300, 50], [320, 50]], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25826, rbs: 32802, rbz: 702798, anxs: 8931220, openx: 538924660, tl: 'publisherdesk_mob-box-ad-c', criteo: 728839, brealtime: 11900181, idxSlot: 12, idxSite: 215734	, districtM: 12207373, conv: 115776, rv: 12516284 },
+  {id: '/134702932/0002-androidauthority.com', label: 'mob-box-ad-d', div: '', sz: [[300, 250], [300, 50], [320, 50]], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25828, rbs: 32802, rbz: 702800, anxs: 8931226, openx: 538924661, criteo: 728840, brealtime: 11900180, idxSlot: 13, idxSite: 215735, districtM: 12207374, conv: 115777, rv: 12516285 },
+  {id: '/134702932/0002-androidauthority.com/0002-androidauthority.com-spot', label: 'mob-box-ad-spot-a', div: '', sz: [[300, 250], [1, 1]], pb: 0, rf: 0, sticky: 0, oop: 0, rbs: 32802, rbz: 687194, anxs: 11650995, openx: 539111858, criteo: 812733, brealtime: 11900178, idxSlot: 14, idxSite: 215736, districtM: 12207375 },
+  {id: '/134702932/0002-androidauthority.com', label: 'native-ad-a', div: '', sz: [[1, 1], 'fluid'], pb: 0, rf: 0, sticky: 0, oop: 0, st: 'kePw1Vr6qzRWyLDTPdRBbARS', tl: 'publisherdesk_dsk-native-ad-a' },
+  {id: '/134702932/0002-androidauthority.com', label: 'native-ad-b', div: '', sz: [[1, 1], 'fluid'], pb: 0, rf: 0, sticky: 0, oop: 0, st: 'PL9AqBZ1MvPso2ZRznnuyk52', tl: 'publisherdesk_dsk-native-ad-b' },
+  {id: '/134702932/0002-androidauthority.com', label: 'native-ad-c', div: '', sz: [[1, 1], 'fluid'], pb: 0, rf: 0, sticky: 0, oop: 0 },
+  {id: '/134702932/0002-androidauthority.com', label: 'native-ad-d', div: '', sz: [[1, 1], 'fluid'], pb: 0, rf: 0, sticky: 0, oop: 0, st: '31dvkSnEBDTB2a2Lzzd4hPu4', tl: 'publisherdesk_dsk-native-ad-a' },
+  {id: '/134702932/0002-androidauthority.com', label: 'nav-ad-a', div: '', sz: [60, 46], pb: 0, rf: 0, sticky: 0, oop: 0 },
+  {id: '/134702932/0002-androidauthority.com/0002-androidauthority.com-oop', label: 'oop-ad-a', div: '', sz: [1, 1], pb: 0, rf: 0, sticky: 0, oop: 0, jpremium: 39064, exclude: ["is", "ms"] },
+  {id: '/134702932/0002-androidauthority.com/0002-androidauthority.com-oop', label: 'oop-ad-b', div: '', sz: [1, 1], pb: 0, rf: 0, sticky: 0, oop: 0 },
+  {id: '/134702932/0002-androidauthority.com', label: 'tab-banner-ad-a', div: '', sz: [468, 60], pb: 0, rf: 0, sticky: 0, oop: 0, tc: 25882, rbs: 32802, rbz: 702806, idxSlot: 15, idxSite: 215737, conv: 115780, rv: 12516292 }
+]
+},
+adsense:
+{
+channelId: '6336991615',
+channelId: '5918189210'
+},
+taboola:
+{
+placements:
+[
+  {
+    div: 'contextual-ad-a',
+    widgets:
+    [
+      {
+        device: 'desktop',
+        mode: 'thumbnails-r',
+        container: 'taboola-below-article-thumbnails-14',
+        placement: 'Below Article Thumbnails 14',
+        target_type: 'mix'
+      },
+      {
+        device: 'mobile',
+        mode: 'thumbnails-o',
+        container: 'taboola-below-article-thumbnails-11',
+        placement: 'Below Article Thumbnails 11',
+        target_type: 'mix'
+      }
+    ]
+  },
+  {
+    div: 'contextual-ad-b',
+    widgets:
+    [
+      {
+        device: 'mobile',
+        mode: 'thumbnails-o',
+        container: 'taboola-below-article-thumbnails-11',
+        placement: 'Below Article Thumbnails 11',
+        target_type: 'mix'
+      },
+      {
+        device: 'desktop',
+        mode: 'thumbnails-r',
+        container: 'taboola-below-article-thumbnails-14',
+        placement: 'Below Article Thumbnails 14',
+        target_type: 'mix'
+      }
+    ]
+  }
+]
+},
+criteoAdBlock:
+{
+placements:
+[
+  {
+    div: 'crt-351386',
+    tpdClass: 'dsk-banner-ad-a-adblock',
+    widgets:
+    [
+      {
+        zoneId: '351386',
+        containerId: 'crt-351386',
+        placement: '728x90',
+        override: 'false'
+      }
+    ]
+  },
+  {
+    div: 'crt-351385',
+    tpdClass: 'dsk-box-ad-a-adblock',
+    widgets:
+    [
+      {
+        zoneId: '351385',
+        containerId: 'crt-351385',
+        placement: '300x250',
+        override: 'false'
+      }
+    ]
+  }
+]
+},
+zergnet:
+{
+placements:
+[
+  {id: '28009', div: 'contextual-d', inf: 0}
+]
+}
+});
